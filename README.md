@@ -1,5 +1,5 @@
 # Starbuck Capstone Project
-This is the project of my starbuck capstone project as requirement to graduate from Udacity Data Scientist Nanodegree Program
+This is the project of my Starbucks capstone project as requirement to graduate from Udacity Data Scientist Nanodegree Program
 
 ## Introduction
 The efficiency and effectivity of customer targeting is important for a business. This also
@@ -94,5 +94,5 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2907172/ [Accessed on April 26, 202
 
 ## Installation
 To use this project, please install these:
-1. Anaconda latest version,
-2. TPOT library: 'pip install tpot'
+1. Anaconda latest version
+2. TPOT library: 'pip install tpot' on terminal
