@@ -84,10 +84,11 @@ v. Build three types of model and optimize each of them based on their
 hyperparameters to get the best possible prediction for each type.
 vi. Evaluate and compare each of the model.
 vii. Compile the result into report and blog post.
-viii. Upload the project into Github.
+viii. Upload the project into Github.  
+
 References:
 [1] Data Science Foundation. 2015. “Propensity Modelling for Business” [Online].
-www.datascience.foundation [Accessed on April 26, 2020]
+www.datascience.foundation [Accessed on April 26, 2020]  
 [2] Westreich, Daniel, Justin, Michele. 2011. “Propensity score estimation: machine learning
 and classification methods as alternatives to logistic regression”.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2907172/ [Accessed on April 26, 2020]
